@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>564321E5-3CFF-4022-AE76-C2275F5E1608</key>
+		<key>92B232D3-424F-4060-B358-119D75D32D91</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,54 +15,54 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>564321E5-3CFF-4022-AE76-C2275F5E1608.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>HorseProject project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HorseProject</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project HorseProject with scheme HorseProject and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>559104306.64075994</real>
-			<key>timeStoppedRecording</key>
-			<real>559104310.30365705</real>
-			<key>title</key>
-			<string>Building project HorseProject with scheme HorseProject and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>564321E5-3CFF-4022-AE76-C2275F5E1608</string>
-		</dict>
-		<key>C5E2683D-FCE1-4D3B-AB2C-BEF884562844</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>C5E2683D-FCE1-4D3B-AB2C-BEF884562844.xcactivitylog</string>
+			<string>92B232D3-424F-4060-B358-119D75D32D91.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
-			<string>HorseProject project</string>
+			<string>HorseGame project</string>
 			<key>schemeIdentifier-schemeName</key>
-			<string>HorseProject</string>
+			<string>HorseGame</string>
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Building project HorseProject with scheme HorseProject and configuration Debug</string>
+			<string>Building project HorseGame with scheme HorseGame and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>559135526.03016901</real>
+			<real>559138489.72933495</real>
 			<key>timeStoppedRecording</key>
-			<real>559135599.67181301</real>
+			<real>559138491.28845203</real>
 			<key>title</key>
-			<string>Building project HorseProject with scheme HorseProject and configuration Debug</string>
+			<string>Building project HorseGame with scheme HorseGame and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>C5E2683D-FCE1-4D3B-AB2C-BEF884562844</string>
+			<string>92B232D3-424F-4060-B358-119D75D32D91</string>
+		</dict>
+		<key>D38C6403-1C80-437D-BD84-BFD2AEDBAE44</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D38C6403-1C80-437D-BD84-BFD2AEDBAE44.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HorseGame project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HorseGame</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project HorseGame with scheme HorseGame and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>559138582.05041695</real>
+			<key>timeStoppedRecording</key>
+			<real>559138584.09842396</real>
+			<key>title</key>
+			<string>Building project HorseGame with scheme HorseGame and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D38C6403-1C80-437D-BD84-BFD2AEDBAE44</string>
 		</dict>
 	</dict>
 </dict>
