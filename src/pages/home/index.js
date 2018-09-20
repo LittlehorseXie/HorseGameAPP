@@ -5,7 +5,7 @@ export default class HelloWorldApp extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      title: '欢迎来到海贼世界!'
+      title: '小马出品'
     }
   }
   render() {
@@ -17,7 +17,7 @@ export default class HelloWorldApp extends Component {
             onPress={() => this.props.navigation.navigate('Test')}
           />
           <Button
-            title="西二旗方块 了解一下"
+            title="俄罗斯方块 了解一下"
             onPress={() => this.props.navigation.navigate('SquareGame')}
           />
         </View>

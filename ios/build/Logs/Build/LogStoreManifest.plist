@@ -6,35 +6,6 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>30E12FB7-6676-4AEF-A634-284E6956D306</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>30E12FB7-6676-4AEF-A634-284E6956D306.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>HorseProject project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HorseProject</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project HorseProject with scheme HorseProject and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>559052516.62752604</real>
-			<key>timeStoppedRecording</key>
-			<real>559052581.38577998</real>
-			<key>title</key>
-			<string>Building project HorseProject with scheme HorseProject and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>30E12FB7-6676-4AEF-A634-284E6956D306</string>
-		</dict>
 		<key>564321E5-3CFF-4022-AE76-C2275F5E1608</key>
 		<dict>
 			<key>className</key>
@@ -63,6 +34,35 @@
 			<string>Building project HorseProject with scheme HorseProject and configuration Debug</string>
 			<key>uniqueIdentifier</key>
 			<string>564321E5-3CFF-4022-AE76-C2275F5E1608</string>
+		</dict>
+		<key>C5E2683D-FCE1-4D3B-AB2C-BEF884562844</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C5E2683D-FCE1-4D3B-AB2C-BEF884562844.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HorseProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HorseProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project HorseProject with scheme HorseProject and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>559135526.03016901</real>
+			<key>timeStoppedRecording</key>
+			<real>559135599.67181301</real>
+			<key>title</key>
+			<string>Building project HorseProject with scheme HorseProject and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C5E2683D-FCE1-4D3B-AB2C-BEF884562844</string>
 		</dict>
 	</dict>
 </dict>
