@@ -1,27 +1,33 @@
-import React, { Component } from 'react';
-import { Text, View, Button, StyleSheet } from 'react-native';
+import React, { Component } from 'React'
+import { GAME_STATE_NOT_START, GAME_STATE_PLAYING, GAME_STATE_OVER } from './utils/constants.js'
+import GameStartView from './view/GameStartView.js'
+import GamePlayingView from './view/GamePlayingView.js'
+import GameOverView from './view/GameOverView.js'
 
-export default class HelloWorldApp extends Component {
+export default class Game extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      startGame: 'START GAME',
-      goHome: 'GO HOME'
+      gameState: GAME_STATE_NOT_START
     }
+    this.changeGameState.bind(this)
+  }
+  changeGameState = (state) => {
+    this.setState({
+      gameState: state
+    })
   }
   render() {
-    return (
-        <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
-          <Text
-            style={{padding: 20, fontSize: 30, color: 'black', borderWidth: 2, borderRadius: 10, borderColor: 'black'}}
-            onPress={() => this.props.navigation.navigate('SquareGame')}
-          >{this.state.startGame}</Text>
-          <Text
-            style={{padding: 8, fontSize: 14, marginTop: 15, color: 'black', borderWidth: 2, borderRadius: 10, borderColor: 'black'}}
-            onPress={() => this.props.navigation.navigate('Home')}
-          >{this.state.goHome}</Text>
-        </View>
-    );
+    switch(this.state.gameState) {
+      case GAME_STATE_NOT_START:
+        return <GameStartView changeGameState={this.changeGameState} />
+        break
+      case GAME_STATE_PLAYING:
+       return <GamePlayingView changeGameState={this.changeGameState} />
+       break
+      case GAME_STATE_OVER:
+        return <GameOverView changeGameState={this.changeGameState} />
+        break
+    }
   }
 }
-
