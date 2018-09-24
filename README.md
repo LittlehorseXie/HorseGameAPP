@@ -8,4 +8,4 @@
 
 ## 调试
 
-Simulator/Hardware/Shake Gesture/Debug JS Remotely/打开网页控制台
+Simulator / Hardware / Shake Gesture / Debug JS Remotely / 打开网页控制台
